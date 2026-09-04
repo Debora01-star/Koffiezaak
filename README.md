@@ -1,3 +1,4 @@
+-
 # Koffiezaak project
 ☕ Koffiezaak
 
@@ -8,30 +9,41 @@ Ons assortiment bestaat uit verschillende soorten koffie, thee, taarten, muffins
 📋 Menu
 
 ☕ Koffie
+
 Product	Prijs
-Espresso	€ 2,50
-Americano	€ 3,00
-Cappuccino	€ 3,50
-Latte Macchiato	€ 3,75
-Flat White	€ 3,75
-IJskoffie	€ 3,75
-🍵 Thee
+
+
+- Espresso	€ 2,50
+
+
+- Americano	€ 3,00- -
+
+- Cappuccino	€ 3,50
+- Latte Macchiato	€ 3,75
+- Flat White	€ 3,75
+- IJskoffie	€ 3,75
+
+-🍵 Thee
+
+
 Product	Prijs
-Zwarte thee	€ 2,50
-Groene thee	€ 3,00
-Muntthee	€ 3,50
-Kamillethee	€ 3,50
-Chai Latte	€ 3,75
-Vruchtenthee	€ 3,75
+- Zwarte thee	€ 2,50
+- Groene thee	€ 3,00
+- Muntthee	€ 3,50
+- Kamillethee	€ 3,50
+- Chai Latte	€ 3,75
+- Vruchtenthee	€ 3,75
+
+- 
 🍰 Gebak & Zoetigheden
 Product	Prijs
-Appeltaart	€ 4,00
-Cheesecake	€ 5,00
-Chocoladetaart	€ 5,00
-Muffin / Cupcake	€ 4,00
-Croissant	€ 2,75
-Koekjes	€ 3,00
-Kleine gebakjes	€ 3,75
+- Appeltaart	€ 4,00
+- Cheesecake	€ 5,00
+- Chocoladetaart	€ 5,00  
+- Muffin / Cupcake	€ 4,00
+- Croissant	€ 2,75
+- Koekjes	€ 3,00
+- Kleine gebakjes	€ 3,75
 
 
 🎯 Doel van het project
@@ -42,8 +54,16 @@ Het doel van dit project is het ontwikkelen van een overzichtelijke en gebruiksv
 De website kan bezoekers informeren over:
 
 ☕ Ons koffieaanbod
+
+
 🍵 Verschillende soorten thee
+
+
 🍰 Het assortiment gebak
+
+
+
+
 🍪 Koekjes en kleine gebakjes
 💶 De prijzen van alle producten
 
@@ -53,62 +73,145 @@ De website kan bezoekers informeren over:
 Dit project wordt ontwikkeld met:
 
 HTML5 – voor de structuur van de website
+
+
 CSS3 – voor de styling en vormgeving
+
+
 JavaScript – voor interactieve functionaliteiten
+
+
 Visual Studio Code – als ontwikkelomgeving
+
+
 Git / GitHub – voor versiebeheer
 
 📁 Projectstructuur
+
+
 koffiezaak/
-│
+
+
+
+
+
 ├── index.html
+
+
 ├── README.md
-│
-├── css/
-│   └── style.css
-│
+
+
+├── css/    
+
+   └── style.css
+
+
+
 ├── js/
-│   └── script.js
-│
+   
+
+└── script.js
+
+
+
 ├── images/
-│   ├── koffie/
-│   ├── thee/
-│   └── gebak/
-│
+   
+
+├── koffie/
+   
+
+├── thee/
+   
+
+└── gebak/
+
+
+
 └── wireframes/
+
+
     └── ...
 
 
-    🚀 Installatie en gebruik
-1. Project downloaden
+   🚀 Installatie en gebruik
+    
+    
+  
 
-Clone het project naar je computer:
 
-git clone <repository-url>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Clone het project naar je computer:
+git clone < repository -url > 
+
+
 2. Open het project in VS Code
 
-Open de projectmap in Visual Studio Code.
+3. Open de projectmap in Visual Studio Code.
 
 3. Start de website
 
-Open index.html in je browser.
+5. Open index.html in je browser.
 
-Je kunt eventueel de Live Server extensie in VS Code gebruiken om de website lokaal te bekijken.
+6. Je kunt eventueel de Live Server extensie in VS Code gebruiken om de website lokaal te bekijken.
 
 📌 Toekomstige uitbreidingen
 
 In de toekomst kan de website worden uitgebreid met:
 
-Online bestellen
-Winkelmandje
-Online reserveren
-Contactformulier
-Openingstijden
-Locatie en routebeschrijving
-Foto's van de producten
-Speciale aanbiedingen
-Seizoensgebonden producten
-Klantenreviews
+- Online bestellen
+
+
+- Winkelmandje
+
+
+- Online reserveren
+
+
+- Contactformulier
+
+
+- Openingstijden
+
+
+- Locatie en routebeschrijving
+
+
+- Foto's van de producten
+
+
+- Speciale aanbiedingen
+
+
+- Seizoensgebonden producten
+
+
+- Klantenreviews
 
 👩‍💻 Auteur
 
