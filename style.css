@@ -1,10 +1,22 @@
+header{
+    background-color:black;
+    color:white;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
 h1{
     color:red;
     font:bold;
 }
 
-header{
-    background-color:black;
-    color:white;
-    text-align: center;
+.menukaart{
+    background-color: gray;
 }
