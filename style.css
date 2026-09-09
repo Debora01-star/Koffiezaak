@@ -1,1 +1,10 @@
-h1{color:red;font:bold;}
+h1{
+    color:red;
+    font:bold;
+}
+
+header{
+    background-color:black;
+    color:white;
+    text-align: center;
+}
