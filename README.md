@@ -6,6 +6,8 @@ Welkom bij onze koffiezaak! Wij zijn een gezellige plek waar je kunt genieten va
 
 Ons assortiment bestaat uit verschillende soorten koffie, thee, taarten, muffins, cupcakes, croissants, koekjes en kleine gebakjes. Of je nu zin hebt in een sterke espresso, een romige cappuccino of een lekker stukje cheesecake, er is voor iedereen iets lekkers.
 
+Deze website is bedoeld voor bezoekers en potentiële klanten van de koffiezaak, die vooraf willen bekijken welke koffie, thee en gebak er te koop zijn en wat de prijzen zijn.
+
 📋 Menu
 
 ☕ Koffie
