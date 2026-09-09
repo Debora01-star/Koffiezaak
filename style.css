@@ -1,0 +1,127 @@
+header{
+    text-align: center;
+    width: 100%;
+}
+ 
+
+/* --- Algemene basisstijl met fonts --- */
+body {
+    font-family:"Cormorant Garamond", sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f2ee;
+    color: #333;
+}
+
+/* --- Header styling --- */
+header {
+    background: #d4700c;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* --- Navigatie links --- */
+nav a {
+    text-decoration: none;
+    margin-top: 100px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px; 
+    
+}
+
+/* Home-knop speciale stijl voor de homepagina 
+nav  a[href="index.html"] {
+    background: #a37b73;
+    color: #170f0f;
+}*/
+/* Home-knop speciale stijl voor het menu
+nav a[href="menu.html"] {
+    background: #a37b73;
+    color: #170f0f;
+    padding: 10px 20px;
+} */
+
+a.nav-btn {
+    background: #a37b73;
+    color: #170f0f;
+    padding: 12px 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px; 
+    text-decoration: none;
+    margin-top: 100px;
+    display: inline-block;
+    margin: 20px;
+    border: 2px solid #f1b510;
+}
+
+
+/* Hover-effect voor alle links */
+nav a:hover {
+    background: #7b4f3f;
+    color: #cbe009;
+    box-shadow: 0 0.5em 0.5em  #ffb38a, 0 0.5em 0.5em #ffb38a, 0 0.5em 0.5em #7b4f3f;
+    transform:translateY(-5px);
+    transition: 1s ease-in-out;
+
+}
+
+/* --- Main layout --- */
+main {
+    padding: 20px;
+}
+
+/* Secties met flexbox */
+main section {
+    margin-bottom: 40px;
+}
+
+/* Responsive grid voor specialiteiten */
+main section:nth-of-type(2) {
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+}
+
+main section:nth-of-type(2) div {
+    background: #ede0d4;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Afbeeldingen responsive */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.koffiebeeld {
+    width: 30px;
+    border: 3px solid #a36464;
+    max-width: 100px;
+    margin: 20px auto;
+    display: block;
+}
+.cheesecakebeeld {
+    width: 30px;
+    border: 3px solid #a36464;
+    max-width: 100px;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Footer */
+footer {
+    background: #d2b48c;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
+
