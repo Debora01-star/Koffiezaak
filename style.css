@@ -14,7 +14,10 @@ main{
 }
 
 footer{
+    color:white;
+    background-color:black;
     text-align: center;
+    padding: 10px;
 }
 
 h1{
@@ -23,5 +26,5 @@ h1{
 }
 
 .menukaart{
-    background-color: gray;
+    background-color: darkgray;
 }
