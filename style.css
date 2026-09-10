@@ -4,7 +4,13 @@ header{
     text-align: center;
 }
 
-body{
+header nav a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+main{
     text-align: center;
 }
 
