@@ -1,0 +1,79 @@
+body {
+  font-family: "Comic Neue", cursive;
+  color: rgb(151, 108, 52);
+  line-height: 1.6;
+}
+
+.comic-neue-light {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-bold {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.comic-neue-light-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.comic-neue-regular-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.comic-neue-bold-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: italic;
+}
+
+header {
+  background-color: #3b2a20;
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  width: 220px;
+  height: auto;
+}
+
+nav a {
+  color: #fff8ef;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  color: rgb(214, 172, 117);
+  text-decoration: underline;
+}
+
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+main {
+  max-width: 900px;
+  padding: 0 20px;
+  margin: 30px auto;
+}
