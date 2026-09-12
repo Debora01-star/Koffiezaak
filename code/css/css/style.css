@@ -2,6 +2,7 @@ body {
   font-family: "Comic Neue", cursive;
   color: rgb(151, 108, 52);
   line-height: 1.6;
+  background-color: #fffaf3;
 }
 
 .comic-neue-light {
@@ -43,23 +44,34 @@ body {
 header {
   background-color: #faf3e8;
   padding: 20px;
-  dispay: flex;
+  display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 20px;
   text-align: center;
-  padding-bottom: 600px;
+  padding-bottom: 0.5px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .logo {
-  width: 220px;
+  width: 325px;
   height: auto;
+  padding: 1.0px;
+  
 }
 
 nav a {
   color: #3b2a20;
   text-decoration: none;
   margin: 0 10px;
+  background-color: #ead8c0;
+  margin: 5px;
+  padding: 10px 15px;
+  border: 1px solid #3b2a20;
+  border-radius: 10px;
+
 }
 
 nav a:hover {
@@ -82,4 +94,5 @@ main {
   max-width: 900px;
   padding: 0 20px;
   margin: 30px auto;
+ 
 }
