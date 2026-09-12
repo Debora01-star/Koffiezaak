@@ -41,9 +41,14 @@ body {
 }
 
 header {
-  background-color: #3b2a20;
+  background-color: #faf3e8;
   padding: 20px;
+  dispay: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
   text-align: center;
+  padding-bottom: 600px;
 }
 
 .logo {
@@ -52,7 +57,7 @@ header {
 }
 
 nav a {
-  color: #fff8ef;
+  color: #3b2a20;
   text-decoration: none;
   margin: 0 10px;
 }
@@ -60,6 +65,7 @@ nav a {
 nav a:hover {
   color: rgb(214, 172, 117);
   text-decoration: underline;
+  text-decoration: 
 }
 
 
