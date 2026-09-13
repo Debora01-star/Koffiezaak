@@ -59,40 +59,64 @@ header {
   width: 325px;
   height: auto;
   padding: 1.0px;
-  
-}
-
-nav a {
-  color: #3b2a20;
-  text-decoration: none;
-  margin: 0 10px;
-  background-color: #ead8c0;
-  margin: 5px;
-  padding: 10px 15px;
-  border: 1px solid #3b2a20;
-  border-radius: 10px;
 
 }
 
-nav a:hover {
-  color: rgb(214, 172, 117);
-  text-decoration: underline;
-  text-decoration: 
+.fotos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+
+}
+.opmaak {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 300px;
+  max-width: 100%;
+  height: 340px;
+  object-fit: cover;
+  border-radius: 20px;
+
 }
 
+  nav a {
+    color: #3b2a20;
+    text-decoration: none;
+    margin: 0 10px;
+    background-color: #ead8c0;
+    margin: 5px;
+    padding: 10px 15px;
+    border: 1px solid #3b2a20;
+    border-radius: 10px;
 
-h1 {
-  font-size: 2.5rem;
-  text-align: center;
-}
+  }
 
-h2 {
-  font-size: 1.5rem;
-}
+  nav a:hover {
+    color: rgb(214, 172, 117);
+    text-decoration: underline;
+  }
 
-main {
-  max-width: 900px;
-  padding: 0 20px;
-  margin: 30px auto;
- 
-}
+
+  h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 50px 20px 20px 20px;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 50px auto;
+    text-align: center;
+  }
+
+  main {
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 60px 24px;
+
+  }
