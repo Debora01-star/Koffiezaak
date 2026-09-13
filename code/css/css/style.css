@@ -82,6 +82,11 @@ header {
 
 }
 
+.achtergrond {
+  background: linear-gradient(to bottom, #faf3e8 0px, #faf3e8 450px, transparent 450px);
+
+}
+
   nav a {
     color: #3b2a20;
     text-decoration: none;
@@ -118,5 +123,6 @@ header {
     max-width: 1150px;
     margin: 0 auto;
     padding: 60px 24px;
+    margin: 0;
 
   }
